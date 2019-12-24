@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": ["es2018"],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "newLine": "LF",
+    "outDir": "lib",
+    "rootDir": "src",
+    "sourceMap": true,
+    "target": "es2018"
+  },
+  "exclude": [
+    "lib/**",
+    "**/*.test.ts"
+  ]
+}
